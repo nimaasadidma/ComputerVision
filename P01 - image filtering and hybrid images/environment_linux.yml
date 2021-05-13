@@ -1,0 +1,18 @@
+name: ense885ay
+channels:
+- pytorch
+- menpo
+- defaults
+dependencies:
+- jupyter
+- matplotlib
+- python=3.6
+- scikit-learn
+- scipy
+- opencv3
+- vlfeat
+- pytorch-cpu
+- torchvision-cpu
+- pip
+- pip:
+  - visdom
